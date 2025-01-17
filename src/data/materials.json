@@ -1,0 +1,31 @@
+[
+	{
+		"code" : "#cotton",
+		"name" : "Cotton"
+	},
+	{
+		"code" : "#velvet",
+		"name" : "Velvet"
+	},
+	{
+		"code" : "#silk",
+		"name" : "Silk"
+	},
+	{
+		"code" : "#denim",
+		"name" : "Denim"
+	},
+	{
+		"code" : "#satin",
+		"name" : "Satin"
+	},
+	{
+		"code" : "#jacquard",
+		"name" : "Jacquard"
+	},
+	{
+		"code" : "#georgette",
+		"name" : "Georgette"
+	}
+		
+]
